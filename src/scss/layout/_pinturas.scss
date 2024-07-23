@@ -1,0 +1,36 @@
+@use 'base/variables' as v;
+@use 'base/mixin' as m;
+
+.pinturas {
+    background-color: v.$rosa;
+
+    h3,
+    .dia {
+        text-align: center;
+        color: v.$blanco;
+    }
+
+    .dia {
+        font-size: 3rem;
+        text-transform: uppercase;
+    }
+}
+
+.escenarios-contenedor {
+
+    @include m.contenedor;
+
+    @include m.tablet {
+        @include m.grid(4);
+    }
+}
+
+.escenario {
+    padding-top: 2rem;
+    img {
+        width: 100%;
+        height: 40rem;
+    }
+
+
+}

@@ -1,0 +1,23 @@
+@use 'base/variables' as v;
+@use 'base/mixin' as m;
+
+.sobre-hobbies {
+    @include m.contenedor;
+
+    @include m.tablet {
+        @include m.grid(2);
+    }
+}
+
+.contenido-hobbies {
+    margin-top: 5rem;
+    margin-left: 5rem;
+
+    h2{
+        margin-bottom: 2rem;
+    }
+    .nombre {
+        color: v.$verde;
+        font-weight: 700;
+    }
+}
