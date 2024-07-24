@@ -10,22 +10,21 @@ El arte siempre ha sido una fuente de inspiración y pasión en mi vida. Desde t
 
 ## Mis Grandes Hobbies
 
-![Hobbies](build/img/imaginacion.jpeg)
+<img src="build/img/imaginacion.jpeg " alt="Hobbies" width="400">
+
 
 El arte, en sus diversas formas, ocupa un lugar especial en mi vida. Me encanta experimentar con diferentes medios y técnicas para capturar la esencia de mis pensamientos y emociones.
 
 ## Mi Arte
 
+<img src="images/mi_arte.jpg" alt="Mi Arte" width="400">
+
 A continuación, algunas de mis obras más recientes:
 
-1. **[Obra 1](build/img/imagen1.jpeg)**: Una representación abstracta de la conexión humana.
+1. **[Obra 1]<img src="build/img/imagen1.jpeg" alt="Mi Arte" width="400">**: Una representación abstracta de la conexión humana.
 2. **[Obra 2](build/img/imagen4.jpeg)**: La belleza de la naturaleza capturada en colores vibrantes.
 3. **[Obra 3](build/img/imagen2.jpeg)**: Una exploración de la emoción a través de la forma y el color.
 4. **[Obra 4](build/img/imagen3.jpeg)**: Una interpretación personal del mundo que me rodea.
-
-## Contacto
-
-Si estás interesado en saber más sobre mi trabajo o deseas colaborar en un proyecto, no dudes en contactarme.
 
 ---
 
