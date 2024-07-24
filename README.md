@@ -17,7 +17,7 @@ El arte, en sus diversas formas, ocupa un lugar especial en mi vida. Me encanta 
 
 ## Mi Arte
 
-<img src="images/mi_arte.jpg" alt="Mi Arte" width="400">
+<img src="images/mi_arte.png" alt="Mi Arte" width="400">
 
 ---
 
