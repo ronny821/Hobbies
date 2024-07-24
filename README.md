@@ -10,14 +10,14 @@ El arte siempre ha sido una fuente de inspiración y pasión en mi vida. Desde t
 
 ## Mis Grandes Hobbies
 
-<img src="build/img/imaginacion.jpeg " alt="Hobbies" width="400">
+<img src="build/img/imaginacion.jpeg" alt="Hobbies" width="400">
 
 
 El arte, en sus diversas formas, ocupa un lugar especial en mi vida. Me encanta experimentar con diferentes medios y técnicas para capturar la esencia de mis pensamientos y emociones.
 
 ## Mi Arte
 
-<img src="images/mi_arte.png" alt="Mi Arte" width="400">
+<img src="build/img/mi_arte.png" width="400">
 
 ---
 
