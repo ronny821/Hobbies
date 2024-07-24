@@ -31,11 +31,11 @@ Una vibrante pintura que captura la celebración y disfrute con colores vivos y 
 
 #Botella y Copa de Vino: 
 Imagen evocadora de una botella vertiendo vino, transmitiendo calidez y la belleza de lo cotidiano con tonos cálidos.
-<img src="src/img/imagen3.jpeg" width="200">
-
-#Avión en el Cielo: 
-Presenta un avión volando en un cielo despejado, creando una sensación de serenidad y libertad.
 <img src="src/img/imagen2.jpeg" width="200">
+
+###Avión en el Cielo: 
+Presenta un avión volando en un cielo despejado, creando una sensación de serenidad y libertad.
+<img src="src/img/imagen3.jpeg" width="200">
 
 #Niña con Girasoles: 
 Muestra a una niña con girasoles en un campo florido, transmitiendo felicidad y una conexión con la naturaleza.
