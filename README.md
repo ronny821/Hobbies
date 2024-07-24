@@ -23,21 +23,22 @@ El arte, en sus diversas formas, ocupa un lugar especial en mi vida. Me encanta 
 
 Esta sección muestra mis obras de arte, cada una explorando diversos temas y técnicas artísticas.
 
-Descripción de las Obras:
-Copa de Vino: Una vibrante pintura que captura la celebración y disfrute con colores vivos y pinceladas expresivas.
+#Descripción de las Obras:
 
+#Copa de Vino: 
+Una vibrante pintura que captura la celebración y disfrute con colores vivos y pinceladas expresivas.
 <img src="src/img/imagen1.jpeg" width="200">
 
-Botella y Copa de Vino: Imagen evocadora de una botella vertiendo vino, transmitiendo calidez y la belleza de lo cotidiano con tonos cálidos.
-
+#Botella y Copa de Vino: 
+Imagen evocadora de una botella vertiendo vino, transmitiendo calidez y la belleza de lo cotidiano con tonos cálidos.
 <img src="src/img/imagen3.jpeg" width="200">
 
-Avión en el Cielo: Presenta un avión volando en un cielo despejado, creando una sensación de serenidad y libertad.
-
+#Avión en el Cielo: 
+Presenta un avión volando en un cielo despejado, creando una sensación de serenidad y libertad.
 <img src="src/img/imagen2.jpeg" width="200">
 
-Niña con Girasoles: Muestra a una niña con girasoles en un campo florido, transmitiendo felicidad y una conexión con la naturaleza.
-
+#Niña con Girasoles: 
+Muestra a una niña con girasoles en un campo florido, transmitiendo felicidad y una conexión con la naturaleza.
 <img src="src/img/imagen4.jpeg" width="200">
 
 Cada obra refleja mi pasión por capturar momentos y emociones a través del arte, utilizando diversas técnicas y estilos para expresar su visión única.
