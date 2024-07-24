@@ -19,13 +19,6 @@ El arte, en sus diversas formas, ocupa un lugar especial en mi vida. Me encanta 
 
 <img src="images/mi_arte.jpg" alt="Mi Arte" width="400">
 
-A continuación, algunas de mis obras más recientes:
-
-1. **[Obra 1]<img src="build/img/imagen1.jpeg" alt="Mi Arte" width="400">**: Una representación abstracta de la conexión humana.
-2. **[Obra 2](build/img/imagen4.jpeg)**: La belleza de la naturaleza capturada en colores vibrantes.
-3. **[Obra 3](build/img/imagen2.jpeg)**: Una exploración de la emoción a través de la forma y el color.
-4. **[Obra 4](build/img/imagen3.jpeg)**: Una interpretación personal del mundo que me rodea.
-
 ---
 
 Ronny Mejía Zuleta. Todos los derechos reservados.
